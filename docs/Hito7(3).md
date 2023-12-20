@@ -42,7 +42,7 @@ Obteniendo la siguiente salida:
 
 Una vez obtenida todas las salidas lo siguiente es quedarnos con los datos que nos interesan de la tabla que son el RMSE/sample y los KBPS para representar una gráfica en conjunto de los resultados de la ejecución de los 4 scripts y poder comparar los resultados.
 
-![Salida 4 curvas](Img/curvas4.png)
+![Salida 4 curvas](Img/rdcurvas.png)
 
 ## Visualize
 
