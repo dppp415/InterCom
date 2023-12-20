@@ -81,6 +81,6 @@ Con los parámetros -i y -o indicamos el id del dispositivo de audio del que vam
 
 ## Conclusión
 
-En este último experimento podemos tener en cuenta varios aspectos:
+En este último experimento podemos tener en cuenta varios aspectos: 
     - Podemos ver como funciona en tiempo real una gráfica que muestra la salida ya procesada sobre el sonido que estamos produciendo.
     - Con los resultados del script podemos evaluar la calidad de la señal tanto por la distorsión RMSE como la relación SNR
