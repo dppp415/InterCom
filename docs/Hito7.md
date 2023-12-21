@@ -54,6 +54,8 @@ Mejora de la calidad de la señal: Al igual que se mencionó antes, valores más
 
 Eficiencia de compresión: La relación entre la señal y el ruido puede ser un indicador de la eficiencia de la compresión. Un SNR más alto después de la compresión sugiere que la técnica utilizada para la compresión (en este caso, la DWT) logra preservar mejor la señal deseada mientras reduce el ruido.
 
+El solapamiento implica superponer ventanas de datos, lo que puede aumentar la cantidad de cálculos requeridos
+
     - Which other transform(s) are used in audio encoding systems (such as MP3) to exploit temporal redundancy? Enumerate the systems and the transform(s) used. 
 
 Transformada de coseno discreto (DCT, por sus siglas en inglés). La DCT se utiliza para aprovechar la redundancia temporal en señales de audio. MP3, por ejemplo, utiliza DCT para transformar los datos de audio en el dominio de la frecuencia, luego cuantifica y codifica estos coeficientes para la compresión de audio
