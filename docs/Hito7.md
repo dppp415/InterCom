@@ -40,7 +40,7 @@ Obteniendo la siguiente salida:
 
 ## Comparación Resultados
 
-Una vez obtenida todas las salidas lo siguiente es quedarnos con los datos que nos interesan de la tabla que son el RMSE/sample y los KBPS para representar una gráfica en conjunto de los resultados de la ejecución de los 4 scripts y poder comparar los resultados.
+Una vez obtenida todas las salidas lo siguiente es quedarnos con los datos que nos interesan de la tabla que son el RMSE/sample y los KBPS para representar una gráfica en conjunto de los resultados de la ejecución de los 4 scripts y poder comparar los resultados. Como podemos ver la tabla ha sido modificada ya que había un error al representar los datos como se vió el día de la exposición. Para solucionarlo, lo único que he cambiado es que antes solo hacía una ejecución de cada uno de los scripts con un único parámetro -q, mientras que, ahora hemos usado diferentes parámetros -q para así generar los puntos necesarios para la gráfica de tal manera que ahora si obtenemmos esa curva exponencial negativa característica de las curvas RD. 
 
 ![Salida 4 curvas](Img/RDCURVES.png)
 
